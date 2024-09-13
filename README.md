@@ -49,6 +49,7 @@ Once the Coating in API was done I added the battery pack and took it out for a 
 <img src="https://github.com/user-attachments/assets/d9a93cd9-c9dc-4652-83d8-0ac29dbf39c1" width="550" height="450">
 
 # Code
+The L9110 is overly verbose. I matched up the names of the pins to the variables to make it make sense but it looks a bit 'busy':
 
 
 # First Spin
