@@ -16,10 +16,16 @@ I had a few of these L9110  motor controllers so I figured I'd try to use some o
 
 # Prototype Sugesstions/Parts
 
+| [Basic Dupont Jumper](https://www.amazon.com/gp/product/B07GD2BWPY/)| <table><tr><td> 29 ms </td></tr> <tr><td> 15 ms </td></tr> <tr><td> NA/Garbage </td></tr></table> | <table><tr><td> 9600 </td></tr><tr><td> 19200 </td></tr> <tr><td> 38400 </td></tr></table>| 10 cm | <img src="pics/10_cm_dp.jpg" width="100" height="100">
+| [BNTECHGO 22 AWG Stranded Tinned Copper](https://www.amazon.com/gp/product/B077XBWX8V/r)| garbage/NA  | 9600| 8 cm | <img src="pics/8cm_tp.jpg" width="100" height="100">|
+
+
+
+
 | Item | Details |Pic/Other|
 |---|---|---|
 | Pi Pico | Anywhere Picos are sold|NA|
-| 8 popsicle sticks| [Amazon](https://www.amazon.com/gp/product/B08BZSNVSQ)|![image](https://github.com/user-attachments/assets/b28e239e-7de9-4ed8-b0d9-d221ec426c9a)|
+| 8 popsicle sticks| [Amazon](https://www.amazon.com/gp/product/B08BZSNVSQ)|<img src="https://github.com/user-attachments/assets/b28e239e-7de9-4ed8-b0d9-d221ec426c9a.jpg width="100" height="100">|
 | Battery pack when mobile| [Adafruit](https://www.adafruit.com/product/3905)|
 | L9110|[L9110](https://www.amazon.com/HiLetgo-H-bridge-Stepper-Controller-Arduino/dp/B00M0F243E)|
 | Wheels and Motors|[Wheels]([https://www.amazon.com/gp/product/B0CG1C7T8J](https://www.amazon.com/dp/B08D39MFN1))
