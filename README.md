@@ -16,12 +16,6 @@ I had a few of these L9110  motor controllers so I figured I'd try to use some o
 
 # Prototype Sugesstions/Parts
 
-| [Basic Dupont Jumper](https://www.amazon.com/gp/product/B07GD2BWPY/)| <table><tr><td> 29 ms </td></tr> <tr><td> 15 ms </td></tr> <tr><td> NA/Garbage </td></tr></table> | <table><tr><td> 9600 </td></tr><tr><td> 19200 </td></tr> <tr><td> 38400 </td></tr></table>| 10 cm | <img src="pics/10_cm_dp.jpg" width="100" height="100">
-| [BNTECHGO 22 AWG Stranded Tinned Copper](https://www.amazon.com/gp/product/B077XBWX8V/r)| garbage/NA  | 9600| 8 cm | <img src="pics/8cm_tp.jpg" width="100" height="100">|
-
-
-
-
 | Item | Details |Pic/Other|
 |---|---|---|
 | Pi Pico | Anywhere Picos are sold|NA|
