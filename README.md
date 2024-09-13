@@ -1,6 +1,6 @@
 # Porsche_L9110
 
-A remote control car based off of toy motors and the L9110 DC Motor  Controller.
+A (remote control?) toy  car based off of toy motors and the L9110 DC Motor  Controller.
 
 The repository name is hopefully obviously silly.
 
@@ -8,7 +8,7 @@ NOTE: Until otherwise lifted, this is in progress ...
 
 # What is this?
 
-The goal here was to create a toy  car using some basic electronics components ( the more basic the better). 
+The goal here was to create a toy car using some basic electronics components ( the more basic the better). 
 <BR>
 I wanted to see if I could create it from scratch  powered by a Raspberry Pi Pico or an ESP 32.
 
