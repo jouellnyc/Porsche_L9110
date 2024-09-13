@@ -47,7 +47,7 @@ Note: I chose 2 motor controllers just because it seemed to be more balanced. It
 
 # Code
 
-Next I tried to understand how the wheels would be moving forward and backward in terms of <A HREF="https://docs.micropython.org/en/latest/library/machine.PWM.html">PWM</A> and the pins on the L9910.
+Next I tried to understand how the wheels would be moving forward and backward in terms of <A HREF="https://docs.micropython.org/en/latest/library/machine.PWM.html">PWM</A> and the pins on the L9110.
 
 <P>
 
