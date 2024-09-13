@@ -21,7 +21,7 @@ I had a few of these L9110  motor controllers so I figured I'd try to use some o
 | Item | Details |Pic/Other|
 |---|---|---|
 | Pi Pico | [Anywhere Picos are sold](https://www.raspberrypi.com/products/raspberry-pi-pico/)|<img src="https://github.com/user-attachments/assets/b1bd51ea-bdc2-4049-8a72-e881141e6e18" width="100" height="100">|
-| 8 popsicle sticks| [Amazon](https://www.amazon.com/gp/product/B08BZSNVSQ)|<img src="https://github.com/user-attachments/assets/b28e239e-7de9-4ed8-b0d9-d221ec426c9a" width="100" height="100">|
+| 10 popsicle sticks| [Amazon](https://www.amazon.com/gp/product/B08BZSNVSQ)|<img src="https://github.com/user-attachments/assets/b28e239e-7de9-4ed8-b0d9-d221ec426c9a" width="100" height="100">|
 | Battery pack when mobile|[Adafruit](https://www.adafruit.com/product/3905)|<img src="https://github.com/user-attachments/assets/a447f1aa-ab6f-475a-ba90-896815e2cebe" width="100" height="100">|
 | 2 x L9110|[L9110](https://www.amazon.com/HiLetgo-H-bridge-Stepper-Controller-Arduino/dp/B00M0F243E)|<img src="https://github.com/user-attachments/assets/725afd47-e233-48fa-a526-6681a73b5cbb" width="100" height="100">|
 | Wheels and Motors| [Wheels](https://www.amazon.com/gp/product/B0CG1C7T8J)|<img src="https://github.com/user-attachments/assets/5d096c64-0a00-4735-a2d5-15d49f6d733f" width="100" height="100">|
@@ -33,7 +33,8 @@ Note: I chose 2 motor controllers just because it seemed to be more balanced. It
 
 # First steps assembling the Prototype
 
-- Got 8 popsicle sticks, glued them together and created a square out of them.  
+- Got 8 popsicle sticks, glued them together and created a square out of them.
+- Got 2 more and made a support bar in the middle of the square.
 - Took the motors and held them tight with some elastics criss crossed.
 - Added the Tissue Paper Roll
    - To save time
