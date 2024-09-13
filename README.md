@@ -69,6 +69,6 @@ Goal is to move forward, stop, move backward, stop, turn left at 50% speed , sto
 
 It didn't really do that so much. It definitely interested the cat and appears as if it was seeking her out:
 
-![video](https://github.com/jouellnyc/Porsche_L9110/blob/main/first_spin.mp4)
+<A href="https://github.com/jouellnyc/Porsche_L9110/blob/main/first_spin.mp4">Video</A>
 
 
