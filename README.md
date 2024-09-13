@@ -4,7 +4,7 @@ A remote control car based off of toy motors and the L9110 DC Motor  Controller.
 
 The repository name is hopefully obviously silly.
 
-TBD: 'more words'
+NOTE: Until otherwise lifted, this is in progress ...
 
 # What is this?
 
