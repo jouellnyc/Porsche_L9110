@@ -83,4 +83,6 @@ It didn't really do that so much. It definitely interested the cat and appears a
 
 <A href="https://github.com/jouellnyc/Porsche_L9110/blob/main/first_spin.mp4">Video</A>
 
+It seems like the tissue roll impeded the movement and  the right wheel just wasn't working well when switching speeds.
 
+Since it is actually working, next steps are to put a more 'proper' chassis and work some bugs out.
