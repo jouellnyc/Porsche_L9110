@@ -49,8 +49,14 @@ Once the  API was done I added the battery pack and took it out for a spin again
 
 Next I tried to understand how the wheels would be moving forward and backward in terms of PWM and the pins on the L9910.
 <BR>
-The L9110 PCB is overly verbose. The names could just be A1, A2, B1, and B2. 
+The L9110 PCB is overly verbose:
+
+![image](https://github.com/user-attachments/assets/ab90f580-209f-45e6-b4e8-3fcbc46748e7)
+
+The names could just be A1, A2, B1, and B2. 
+
 <BR>
+
 I matched up the names of the pins to the variables to make it make sense but it looks a bit 'busy':
 
 ![image](https://github.com/user-attachments/assets/a89fc2eb-1d34-48da-8c50-7ff73591c402)
