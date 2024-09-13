@@ -27,7 +27,7 @@ I had a few of these L9110  motor controllers so I figured I'd try to use some o
 | 400 point breadboard | [Amazon](https://www.amazon.com/Breadborad-Solderless-Breadboards-Distribution-Connecting/dp/B082VYXDF1/)|<img src="https://github.com/user-attachments/assets/73578bff-e890-43b0-9ae0-a52ea4e461f7" width="100" height="100">
 
 
-Once the Coating in API was done I added the battery pack and took it out for a spin again not having a very high expectation of the actual motion for it
+Once the  API was done I added the battery pack and took it out for a spin again not having a very high expectation of the actual motion for it
 
 
 # First steps assembling the Prototype
