@@ -23,14 +23,12 @@ I had a few of these L9110  motor controllers so I figured I'd try to use some o
 | Pi Pico | [Anywhere Picos are sold](https://www.raspberrypi.com/products/raspberry-pi-pico/)|<img src="https://github.com/user-attachments/assets/b1bd51ea-bdc2-4049-8a72-e881141e6e18" width="100" height="100">|
 | 8 popsicle sticks| [Amazon](https://www.amazon.com/gp/product/B08BZSNVSQ)|<img src="https://github.com/user-attachments/assets/b28e239e-7de9-4ed8-b0d9-d221ec426c9a" width="100" height="100">|
 | Battery pack when mobile|[Adafruit](https://www.adafruit.com/product/3905)|<img src="https://github.com/user-attachments/assets/a447f1aa-ab6f-475a-ba90-896815e2cebe" width="100" height="100">|
-| L9110|[L9110](https://www.amazon.com/HiLetgo-H-bridge-Stepper-Controller-Arduino/dp/B00M0F243E)|<img src="https://github.com/user-attachments/assets/725afd47-e233-48fa-a526-6681a73b5cbb" width="100" height="100">|
+| 2 x L9110|[L9110](https://www.amazon.com/HiLetgo-H-bridge-Stepper-Controller-Arduino/dp/B00M0F243E)|<img src="https://github.com/user-attachments/assets/725afd47-e233-48fa-a526-6681a73b5cbb" width="100" height="100">|
 | Wheels and Motors| [Wheels](https://www.amazon.com/gp/product/B0CG1C7T8J)|<img src="https://github.com/user-attachments/assets/5d096c64-0a00-4735-a2d5-15d49f6d733f" width="100" height="100">|
 | Tissue Paper Roll | Left up to the reader|
 | 400 point breadboard | [Amazon](https://www.amazon.com/Breadborad-Solderless-Breadboards-Distribution-Connecting/dp/B082VYXDF1/)|<img src="https://github.com/user-attachments/assets/73578bff-e890-43b0-9ae0-a52ea4e461f7" width="100" height="100">
 
-
-Once the  API was done I added the battery pack and took it out for a spin again not having a very high expectation of the actual motion for it
-
+Note: I chose 2 motor controllers just because it seemed to be more balanced. It's not a requirement as the L9110 can handle 2 motors.
 
 # First steps assembling the Prototype
 
@@ -48,7 +46,9 @@ Once the  API was done I added the battery pack and took it out for a spin again
 # Code
 
 Next I tried to understand how the wheels would be moving forward and backward in terms of PWM and the pins on the L9910.
-<BR>
+
+<P>
+
 The L9110 PCB is overly verbose:
 
 ![image](https://github.com/user-attachments/assets/ab90f580-209f-45e6-b4e8-3fcbc46748e7)
