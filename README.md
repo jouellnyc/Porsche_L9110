@@ -44,14 +44,30 @@ Once the Coating in API was done I added the battery pack and took it out for a 
 # Prototype
 ![image](https://github.com/user-attachments/assets/c0387acd-d72a-432a-9408-f1052f367763)
 
+# Code
+
+The L9110 is overly verbose. I matched up the names of the pins to the variables to make it make sense but it looks a bit 'busy':
+
+![image](https://github.com/user-attachments/assets/a89fc2eb-1d34-48da-8c50-7ff73591c402)
+
+and not overly optimized:
+
+![image](https://github.com/user-attachments/assets/92bb156e-6590-48dc-a6f2-0ba7861754de)
+
+
+# Pre First Spin
+Once the  API was done I added the battery pack and took it out for a spin, not having a very high expectation of great motion.
 
 # Prototype with 4.8 V mobile battery pack
 <img src="https://github.com/user-attachments/assets/d9a93cd9-c9dc-4652-83d8-0ac29dbf39c1" width="550" height="450">
 
-# Code
-The L9110 is overly verbose. I matched up the names of the pins to the variables to make it make sense but it looks a bit 'busy':
-
-
 # First Spin
-Once the  API was done I added the battery pack and took it out for a spin, not having a very high expectation of great motion.
+
+Goal is to move forward, stop, move backward, stop, turn left at 50% speed , stop,  turn right at 50% speed , then stop.
+
+![image](https://github.com/user-attachments/assets/2097411b-7469-452f-9472-e4592f0da8e7)
+
+
+
+
 
