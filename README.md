@@ -67,6 +67,7 @@ Goal is to move forward, stop, move backward, stop, turn left at 50% speed , sto
 
 ![image](https://github.com/user-attachments/assets/2097411b-7469-452f-9472-e4592f0da8e7)
 
+It didn't really do that so much. It definitely interested the cat and appears as if it was seeking her out.
 
 
 
