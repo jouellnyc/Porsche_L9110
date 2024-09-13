@@ -63,7 +63,7 @@ Once the  API was done I added the battery pack and took it out for a spin, not 
 
 # First Spin
 
-Goal is to move forward, stop, move backward, stop, turn left at 50% speed , stop,  turn right at 50% speed , then stop.
+Goal: move forward, stop, move backward, stop, turn left at 50% speed, stop, turn right at 50% speed, then stop.
 
 ![image](https://github.com/user-attachments/assets/2097411b-7469-452f-9472-e4592f0da8e7)
 
