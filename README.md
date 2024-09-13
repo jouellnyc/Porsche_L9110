@@ -22,6 +22,9 @@ I had a few of these L9110  motor controllers so I figured I'd try to use some o
 | 8 popsicle sticks| [link](https://www.amazon.com/gp/product/B08BZSNVSQ)|
 |Battery pack when mobile| 4 x 1.2V will work with NiMH rechareable batteries|
 |L9110|[L9110](https://www.amazon.com/HiLetgo-H-bridge-Stepper-Controller-Arduino/dp/B00M0F243E)|
+|Wheels and Motors|[Wheels]([https://www.amazon.com/gp/product/B0CG1C7T8J](https://www.amazon.com/dp/B08D39MFN1))
+| Toilet Paper Roll | Left up to the reader|
+| 400 point breadboard | Amazon/Aliexpress
 
 
 # Prototype
