@@ -19,12 +19,17 @@ I had a few of these L9110  motor controllers so I figured I'd try to use some o
 | Item | Details |
 |---|---|
 | Pi Pico | Anywhere Picos are sold|
-| 8 popsicle sticks| [Amazon](https://www.amazon.com/gp/product/B08BZSNVSQ)|
+| 8 popsicle sticks| [Amazon](https://www.amazon.com/gp/product/B08BZSNVSQ)|![image](https://github.com/user-attachments/assets/b28e239e-7de9-4ed8-b0d9-d221ec426c9a)
+|
 | Battery pack when mobile| [Adafruit](https://www.adafruit.com/product/3905)|
 | L9110|[L9110](https://www.amazon.com/HiLetgo-H-bridge-Stepper-Controller-Arduino/dp/B00M0F243E)|
 | Wheels and Motors|[Wheels]([https://www.amazon.com/gp/product/B0CG1C7T8J](https://www.amazon.com/dp/B08D39MFN1))
 | Tissue Paper Roll | Left up to the reader|
 | 400 point breadboard | Amazon/Aliexpress |
+
+
+Once the Coating in API was done I added the battery pack and took it out for a spin again not having a very high expectation of the actual motion for it
+
 
 # First steps assembling the Prototype
 
