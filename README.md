@@ -19,7 +19,7 @@ I had a few of these L9110  motor controllers so I figured I'd try to use some o
 | Item | Details |Pic/Other|
 |---|---|---|
 | Pi Pico | Anywhere Picos are sold|NA|
-| 8 popsicle sticks| [Amazon](https://www.amazon.com/gp/product/B08BZSNVSQ)|<img src="https://github.com/user-attachments/assets/b28e239e-7de9-4ed8-b0d9-d221ec426c9a.jpg width="100" height="100">|
+| 8 popsicle sticks| [Amazon](https://www.amazon.com/gp/product/B08BZSNVSQ)|<img src="https://github.com/user-attachments/assets/b28e239e-7de9-4ed8-b0d9-d221ec426c9a.jpg" width="100" height="100">|
 | Battery pack when mobile| [Adafruit](https://www.adafruit.com/product/3905)|
 | L9110|[L9110](https://www.amazon.com/HiLetgo-H-bridge-Stepper-Controller-Arduino/dp/B00M0F243E)|
 | Wheels and Motors|[Wheels]([https://www.amazon.com/gp/product/B0CG1C7T8J](https://www.amazon.com/dp/B08D39MFN1))
