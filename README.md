@@ -14,13 +14,13 @@ I wanted to see if I could create it from scratch  powered by a Raspberry Pi Pic
 Some of the design goals were low cost and  creating from scratch / not following any particular recipe.
 I had a few of these L9110  motor controllers so I figured I'd try to use some of these and some 5 volt motors.
 
-# Prototype Requirements
+# Prototype Sugesstions/Parts
 
 | Item | Details |
 |---|---|
 | Pi Pico | Anywhere Picos are sold|
 | 8 popsicle sticks| [link](https://www.amazon.com/gp/product/B08BZSNVSQ)|
-|Battery pack when mobile| 4 x 1.2V will work with NiMH rechareable batteries|
+|Battery pack when mobile| [Adafruit](https://www.adafruit.com/product/3905)|
 |L9110|[L9110](https://www.amazon.com/HiLetgo-H-bridge-Stepper-Controller-Arduino/dp/B00M0F243E)|
 |Wheels and Motors|[Wheels]([https://www.amazon.com/gp/product/B0CG1C7T8J](https://www.amazon.com/dp/B08D39MFN1))
 | Toilet Paper Roll | Left up to the reader|
