@@ -38,7 +38,7 @@ Once the  API was done I added the battery pack and took it out for a spin again
 - Took the motors and held them tight with some elastics criss crossed.
 - Added the Tissue Paper Roll
    - To save time
-   - Tere was not a lot of room left
+   - There was not a lot of room left
    - It's a quick prototype 
 - Hooked up the motor controllers to each of the motors and tucked the wires through the Tissue Paper Roll.
 - Tried to understand how the wheels would be moving forward and backward.
