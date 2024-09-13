@@ -9,9 +9,11 @@ NOTE: Until otherwise lifted, this is in progress ...
 # What is this?
 
 The goal here was to create a toy  car using some basic electronics components ( the more basic the better). 
+<BR>
 I wanted to see if I could create it from scratch  powered by a Raspberry Pi Pico or an ESP 32.
 
 Some of the design goals were low cost and  creating from scratch / not following any particular recipe.
+<BR>
 I had a few of these L9110  motor controllers so I figured I'd try to use some of these and some 5 volt motors.
 
 # Prototype Sugesstions/Parts
