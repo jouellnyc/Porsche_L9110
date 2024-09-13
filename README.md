@@ -41,7 +41,7 @@ Once the  API was done I added the battery pack and took it out for a spin again
    - There was not a lot of room left
    - It's a quick prototype 
 - Hooked up the motor controllers to each of the motors and tucked the wires through the Tissue Paper Roll.
-- Tried to understand how the wheels would be moving forward and backward.
+- Tried to understand how the wheels would be moving forward and backward in terms of PWM and the pins on the L9910.
 
 # Prototype
 ![image](https://github.com/user-attachments/assets/c0387acd-d72a-432a-9408-f1052f367763)
