@@ -21,7 +21,7 @@ I had a few of these L9110  motor controllers so I figured I'd try to use some o
 | Pi Pico | Anywhere Picos are sold|
 | 8 popsicle sticks| [link](https://www.amazon.com/gp/product/B08BZSNVSQ)|
 |Battery pack when mobile| 4 x 1.2V will work with NiMH rechareable batteries|
-|L9110|[L9110](https://www.amazon.com/HiLetgo-H-bridge-Stepper-Controller-Arduino/dp/B00M0F243E|
+|L9110|[L9110](https://www.amazon.com/HiLetgo-H-bridge-Stepper-Controller-Arduino/dp/B00M0F243E)|
 
 
 # Prototype
