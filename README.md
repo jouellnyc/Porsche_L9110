@@ -19,7 +19,7 @@ Some of the design goals were:
 <BR>
 I had a few of these L9110  motor controllers so I figured I'd try to use some of these and some 5 volt motors.
 
-# Prototype Sugesstions/Parts
+# Prototype Suggestions/Parts
 
 | Item | Details |Pic/Other|
 |---|---|---|
