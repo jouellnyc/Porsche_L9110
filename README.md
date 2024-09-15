@@ -12,7 +12,10 @@ The goal here was to create a toy car using some basic electronics components ( 
 <BR>
 I wanted to see if I could create it from scratch  powered by a Raspberry Pi Pico or an ESP 32.
 
-Some of the design goals were low cost and  creating from scratch / not following any particular recipe.
+Some of the design goals were:
+- Low cost / Simple Design
+- Creating from scratch / not following any particular recipe.
+- Start 'now' - even without a proper chassis or wheels - just what I have.
 <BR>
 I had a few of these L9110  motor controllers so I figured I'd try to use some of these and some 5 volt motors.
 
@@ -90,6 +93,8 @@ Since it is actually working, next steps are to put a more 'proper' chassis and 
 
 
 # Prototype B - Using an actual Chassis   
+
+Swapping out the popsicle sticks and tissue paper:
 
 | Item | Details |Pic/Other|
 |---|---|---|
