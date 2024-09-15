@@ -12,7 +12,10 @@ The goal here was to create a toy car using some basic electronics components ( 
 <BR>
 I wanted to see if I could create it from scratch  powered by a Raspberry Pi Pico or an ESP 32.
 
-Some of the design goals were low cost and  creating from scratch / not following any particular recipe.
+Some of the design goals were:
+- Low cost / Simple Design
+- Creating from scratch / not following any particular recipe
+- Start 'now' - even without a proper chassis or wheels - just what I have currently. Make it better later.
 <BR>
 I had a few of these L9110  motor controllers so I figured I'd try to use some of these and some 5 volt motors.
 
@@ -25,8 +28,8 @@ I had a few of these L9110  motor controllers so I figured I'd try to use some o
 | Battery pack when mobile|[Adafruit](https://www.adafruit.com/product/3905)|<img src="https://github.com/user-attachments/assets/a447f1aa-ab6f-475a-ba90-896815e2cebe" width="100" height="100">|
 | 2 x L9110|[L9110](https://www.amazon.com/HiLetgo-H-bridge-Stepper-Controller-Arduino/dp/B00M0F243E)|<img src="https://github.com/user-attachments/assets/725afd47-e233-48fa-a526-6681a73b5cbb" width="100" height="100">|
 | Wheels and Motors| [Wheels](https://www.amazon.com/gp/product/B0CG1C7T8J)|<img src="https://github.com/user-attachments/assets/5d096c64-0a00-4735-a2d5-15d49f6d733f" width="100" height="100">|
-| Tissue Paper Roll | Left up to the reader|
 | 400 point breadboard | [Amazon](https://www.amazon.com/Breadborad-Solderless-Breadboards-Distribution-Connecting/dp/B082VYXDF1/)|<img src="https://github.com/user-attachments/assets/73578bff-e890-43b0-9ae0-a52ea4e461f7" width="100" height="100">
+| Tissue Paper Roll | Left up to the reader|
 | Small latching button | Optional - most any will do | It can help to turn the car/pico on/off|
 
 Note: I chose 2 motor controllers just because it seemed to be more balanced. It's not a requirement as the L9110 can handle 2 motors.
@@ -42,7 +45,7 @@ Note: I chose 2 motor controllers just because it seemed to be more balanced. It
    - It's a quick prototype 
 - Hooked up the motor controllers to each of the motors and tucked the wires through the Tissue Paper Roll.
 
-# Prototype
+# Prototype A
 ![image](https://github.com/user-attachments/assets/c0387acd-d72a-432a-9408-f1052f367763)
 
 # Code
@@ -71,7 +74,7 @@ and not overly optimized:
 # Pre First Spin
 Once the API was done I added the battery pack and took it out for a spin, not having a very high expectation of great motion.
 
-# Prototype with 4.8 V mobile battery pack
+# Prototype A with 4.8 V mobile battery pack
 <img src="https://github.com/user-attachments/assets/d9a93cd9-c9dc-4652-83d8-0ac29dbf39c1" width="550" height="450">
 
 # First Spin
@@ -87,3 +90,22 @@ It didn't really do that so much. It definitely interested the cat and appears a
 It seems like the tissue roll impeded the movement and  the right wheel just wasn't working well when switching speeds.
 
 Since it is actually working, next steps are to put a more 'proper' chassis and work some bugs out.
+
+
+# Prototype B - Using an actual Chassis   
+
+Swapping out the popsicle sticks and tissue paper for a 'proper' toy chassis:
+
+| Item | Details |Pic/Other|
+|---|---|---|
+| Motor Smart Robot Car Chassis Kit | [AliExpress](https://www.aliexpress.us/item/3256805787518210.html)|<img src="https://github.com/user-attachments/assets/ef5b128b-40f2-4295-882c-b8f25ee62923" width="100" height="100">|
+
+<img src="https://github.com/user-attachments/assets/09399dc6-7f6f-47f3-9293-c8f51cb290d7" width="550" height="450">
+
+# Second  Spin
+Things went went. The car followed the steps well. But there was big jump/herky-jerky movement on moving backward.
+
+
+# Third Spin
+Things went better. After placing the battery pack closer to the center of gravity, the car followed the steps significantly more smoothly.
+
