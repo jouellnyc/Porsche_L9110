@@ -48,7 +48,7 @@ Note: I chose 2 motor controllers just because it seemed to be more balanced. It
 # Prototype A
 ![image](https://github.com/user-attachments/assets/c0387acd-d72a-432a-9408-f1052f367763)
 
-# Code
+## Code
 
 Next I tried to understand how the wheels would be moving forward and backward in terms of <A HREF="https://docs.micropython.org/en/latest/library/machine.PWM.html">PWM</A> and the pins on the L9110.
 
@@ -71,13 +71,13 @@ and not overly optimized:
 ![image](https://github.com/user-attachments/assets/92bb156e-6590-48dc-a6f2-0ba7861754de)
 
 
-# Pre First Spin
+## Pre First Spin
 Once the API was done I added the battery pack and took it out for a spin, not having a very high expectation of great motion.
 
-# Prototype A with 4.8 V mobile battery pack
+## Prototype A with 4.8 V mobile battery pack
 <img src="https://github.com/user-attachments/assets/d9a93cd9-c9dc-4652-83d8-0ac29dbf39c1" width="550" height="450">
 
-# First Spin
+## First Spin
 
 Goal: move forward, stop, move backward, stop, turn left at 50% speed, stop, turn right at 50% speed, then stop.
 
@@ -102,14 +102,14 @@ Swapping out the popsicle sticks and tissue paper for a 'proper' toy chassis:
 
 <img src="https://github.com/user-attachments/assets/09399dc6-7f6f-47f3-9293-c8f51cb290d7" width="550" height="450">
 
-# Second  Spin
+## Second  Spin
 Things went went. The car followed the steps well. 
 <BR>
 But there was big jump/herky-jerky movement on moving backward because of the weight and placement of the battery.
 
 <A href="https://github.com/jouellnyc/Porsche_L9110/raw/main/media/second_spin.mp4">Second Spin Video</A>
 
-# Third Spin
+## Third Spin
 Things went better. After placing the battery pack closer to the center of gravity, the car followed the steps significantly more smoothly.
 
 <A href="https://github.com/jouellnyc/Porsche_L9110/raw/main/media/third_spin.mp4">Third Spin Video</A>
