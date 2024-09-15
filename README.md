@@ -93,8 +93,8 @@ Since it is actually working, next steps are to put a more 'proper' chassis and 
 
 | Item | Details |Pic/Other|
 |---|---|---|
-| Motor Smart Robot Car Chassis Kit | [AliExpress](https://www.aliexpress.us/item/3256805787518210.html)|<img src="https://github.com/user-attachments/assets/ef5b128b-40f2-4295-882c-b8f25ee62923" width="550" height="450">|
+| Motor Smart Robot Car Chassis Kit | [AliExpress](https://www.aliexpress.us/item/3256805787518210.html)|<img src="https://github.com/user-attachments/assets/ef5b128b-40f2-4295-882c-b8f25ee62923" width="100" height="100">|
 
-![image](https://github.com/user-attachments/assets/09399dc6-7f6f-47f3-9293-c8f51cb290d7)
+![image](https://github.com/user-attachments/assets/09399dc6-7f6f-47f3-9293-c8f51cb290d7 width="550" height="450")
 
 
