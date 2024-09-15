@@ -109,7 +109,9 @@ But there was big jump/herky-jerky movement on moving backward because of the we
 
 <A href="https://github.com/jouellnyc/Porsche_L9110/raw/main/media/second_spin.mp4">Second Spin Video</A>
 
-## Update with battery placed better:
+## Updated Placement:
+
+Moved the battery holder closer and the flipped it the breadboard:
 
 <img src="https://github.com/user-attachments/assets/e91a1727-8c62-4c10-9072-c1efffec6896" width="550" height="450">
 
