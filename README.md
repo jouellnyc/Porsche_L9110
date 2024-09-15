@@ -105,7 +105,7 @@ Swapping out the popsicle sticks and tissue paper for a 'proper' toy chassis:
 # Second  Spin
 Things went went. The car followed the steps well. But there was big jump/herky-jerky movement on moving backward.
 
-<A href="https://github.com/jouellnyc/Porsche_L9110/blob/main/seond_spin.mp4">Video</A>
+<A href="https://github.com/jouellnyc/Porsche_L9110/blob/main/second_spin.mp4">Video</A>
 
 # Third Spin
 Things went better. After placing the battery pack closer to the center of gravity, the car followed the steps significantly more smoothly.
