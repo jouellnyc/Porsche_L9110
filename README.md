@@ -14,8 +14,8 @@ I wanted to see if I could create it from scratch  powered by a Raspberry Pi Pic
 
 Some of the design goals were:
 - Low cost / Simple Design
-- Creating from scratch / not following any particular recipe.
-- Start 'now' - even without a proper chassis or wheels - just what I have.
+- Creating from scratch / not following any particular recipe
+- Start 'now' - even without a proper chassis or wheels - just what I have currently. Make it better later.
 <BR>
 I had a few of these L9110  motor controllers so I figured I'd try to use some of these and some 5 volt motors.
 
