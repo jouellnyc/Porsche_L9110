@@ -3,6 +3,31 @@ from machine import Pin, PWM
 
 from wheels import LEFT_B_B1A, LEFT_B_B1B, RIGHT_B_B1A, RIGHT_B_B1B
 
+""" Examples
+from drive_api import CarControl
+import time
+
+percent=1
+car = CarControl(speed=int(65535 * percent), freq=1000)
+
+car.move_forward()
+time.sleep(2)
+car.stop()
+
+car.move_backward()
+time.sleep(2)
+car.stop()
+
+car.turn_left(50)  # Turn left, reducing left wheel to 50% of current speed
+time.sleep(2)
+car.stop()
+
+car.turn_right(50)  # Turn right, reducing right wheel to 25% of current speed
+time.sleep(2)
+car.stop()
+
+"""
+
 
 class CarControl:
     def __init__(self, speed=65535, freq=1000):
