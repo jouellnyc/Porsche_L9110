@@ -126,7 +126,16 @@ Things went better. After placing the battery pack closer to the center of gravi
 
 
 ## Fourth Spin
-Added the IR sensor (Follow the pin connections from <A href="https://github.com/jouellnyc/infrared_tag">here</A>) and integrated that with the current simple car api. 
+Added the IR sensor (Follow the pin connections from <A href="https://github.com/jouellnyc/infrared_tag">here</A>) and integrated that with the current simple car api. In the end you can use just about any hobby remote with it. Make note of what code comes across as you hit the button. 
+
+I chose:
+
+| Button | Action|
+| --------  | --------- |
+| 1 | Move Forward|
+| 2 | Move Backward|
+| 4 | Move Left|
+| 5 | Move Right|
 
 
 **IR Receiver Connections**
@@ -141,4 +150,7 @@ Added the IR sensor (Follow the pin connections from <A href="https://github.com
 
 After correcting the left and right turns, the api was complete and minimally viable. The car can move forward, backward, turn left and turn right. This was overall a success and leaves plenty of opportunities to build upon.
 
+
+## Credits
+- IR code used from https://github.com/peterhinch/micropython_ir/tree/master 
 
