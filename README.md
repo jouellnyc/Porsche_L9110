@@ -32,8 +32,12 @@ I had a few of these L9110  motor controllers so I figured I'd try to use some o
 | 400 point breadboard | [Amazon](https://www.amazon.com/Breadborad-Solderless-Breadboards-Distribution-Connecting/dp/B082VYXDF1/)|<img src="https://github.com/user-attachments/assets/73578bff-e890-43b0-9ae0-a52ea4e461f7" width="100" height="100">
 | Tissue Paper Roll | Left up to the reader|
 | Small latching button | Optional - most any will do | It can help to turn the car/pico on/off|
+| IR Receiver |[Amazon](https://www.amazon.com/gp/product/B06XYNDRGF)|<img src="https://github.com/user-attachments/assets/4f9df3a3-6206-4b6b-bc9b-b784a9361db0"|
 
 Note: I chose 2 motor controllers just because it seemed to be more balanced. It's not a requirement as the L9110 can handle 2 motors.
+
+Note: The IR Receiver is optional if you don't want remote control abilities
+
 
 # First steps assembling the Prototype
 
