@@ -126,7 +126,7 @@ Things went better. After placing the battery pack closer to the center of gravi
 
 
 ## Fourth Spin
-Added the IR sensor (Follow the pin connections from <A href="https://github.com/jouellnyc/infrared_tag">here</A>) and integrated that with the current simple car api. In the end you can use just about any hobby remote with it. Make note of what code comes across as you hit the button. 
+Added the IR sensor and integrated that with the current simple car api. In the end you can use just about any hobby remote with it. Make note of what code comes across as you hit the button. 
 
 I chose:
 
@@ -142,7 +142,7 @@ and are mapped accordingly in `infra_car_control.py`:
 ![image](https://github.com/user-attachments/assets/9a03f0df-8a50-451f-af51-b6fd3ca48e7a)
 
 
-Try to keeep the IR sensor toward the edge, so it is more likely to receive the IR beam and not be hidden:
+Try to keep the IR sensor toward the edge, so it is more likely to receive the IR beam and not be hidden:
 
 **IR Receiver Connections**
 
