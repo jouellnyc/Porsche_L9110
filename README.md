@@ -118,7 +118,7 @@ Moved the battery holder closer and the flipped it the breadboard:
 ## Third Spin
 Things went better. After placing the battery pack closer to the center of gravity, the car followed the steps significantly more smoothly.
 
-<A href="https://github.com/jouellnyc/Porsche_L9110/raw/main/media/third_spin.mp4">Third Spin Video</A>
+<A href="/media/third_spin.mp4">Third Spin Video</A>
 
 
 ## Fourth Spin
