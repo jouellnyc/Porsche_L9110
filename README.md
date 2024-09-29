@@ -40,9 +40,8 @@ Note: I chose 2 motor controllers just because it seemed to be more balanced. It
 - Got 2 more and made a support bar in the middle of the square.
 - Took the motors and held them tight with some elastics criss crossed.
 - Added the Tissue Paper Roll
-   - To save time
+   - To save time on a quick prototype 
    - There was not a lot of room left
-   - It's a quick prototype 
 - Hooked up the motor controllers to each of the motors and tucked the wires through the Tissue Paper Roll.
 
 # Prototype A
@@ -118,6 +117,11 @@ Moved the battery holder closer and the flipped it the breadboard:
 ## Third Spin
 Things went better. After placing the battery pack closer to the center of gravity, the car followed the steps significantly more smoothly.
 
-
 <A href="https://github.com/jouellnyc/Porsche_L9110/raw/main/media/third_spin.mp4">Third Spin Video</A>
+
+
+## Fourth Spin
+After correcting the left and right turns, the api was complete and minimally viable. The car can move forward, backward, turn left and turn right.
+
+
 
