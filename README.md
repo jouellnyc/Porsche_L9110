@@ -4,7 +4,6 @@ A (remote control?) toy  car based off of toy motors and the L9110 DC Motor  Con
 
 The repository name is hopefully obviously silly.
 
-NOTE: Until otherwise lifted, this is in progress ...
 
 # What is this?
 
