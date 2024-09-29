@@ -128,6 +128,15 @@ Things went better. After placing the battery pack closer to the center of gravi
 ## Fourth Spin
 Added the IR sensor (Follow the pin connections from <A href="https://github.com/jouellnyc/infrared_tag">here</A>) and integrated that with the current simple car api. 
 
+
+**IR Receiver Connections**
+
+| GPIO Pin | Connection|
+| --------  | --------- |
+| GPIO 12   | IN  (left leg) |
+| GND PIN 18| GND (middle leg) |
+| 3.3/Pin 36| VCC (right leg|
+
 <img src="/media/car_ir.jpg">
 
 After correcting the left and right turns, the api was complete and minimally viable. The car can move forward, backward, turn left and turn right. This was overall a success and leaves plenty of opportunities to build upon.
