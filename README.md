@@ -142,6 +142,8 @@ and are mapped accordingly in `infra_car_control.py`:
 ![image](https://github.com/user-attachments/assets/9a03f0df-8a50-451f-af51-b6fd3ca48e7a)
 
 
+Try to keeep the IR sensor toward the edge, so it is more likely to receive the IR beam and not be hidden:
+
 **IR Receiver Connections**
 
 | GPIO Pin | Connection|
@@ -157,4 +159,3 @@ After correcting the left and right turns, the api was complete and minimally vi
 
 ## Credits
 - IR code used from https://github.com/peterhinch/micropython_ir/tree/master 
-
