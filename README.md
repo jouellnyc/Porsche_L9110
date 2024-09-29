@@ -144,6 +144,8 @@ and are mapped accordingly in `infra_car_control.py`:
 
 Try to keep the IR sensor toward the edge, so it is more likely to receive the IR beam and not be hidden:
 
+<img src="/media/car_ir.jpg">
+
 **IR Receiver Connections**
 
 | GPIO Pin | Connection|
@@ -152,10 +154,9 @@ Try to keep the IR sensor toward the edge, so it is more likely to receive the I
 | GND PIN 18| GND (middle leg) |
 | 3.3/Pin 36| VCC (right leg|
 
-<img src="/media/car_ir.jpg">
-
-After correcting the left and right turns, the api was complete and minimally viable. The car can move forward, backward, turn left and turn right. This was overall a success and leaves plenty of opportunities to build upon.
+After correcting the left and right turns functions (I had them inverted) and realizing the wheels and chassis are pretty good but the don't always proceed in a 'perfect' straight line, the api was complete and minimally viable. The car can move forward, backward, turn left and turn right. This was overall a success and leaves plenty of opportunities to build upon.
 
 
 ## Credits
 - IR code used from https://github.com/peterhinch/micropython_ir/tree/master 
+
