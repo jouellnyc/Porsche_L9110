@@ -137,7 +137,7 @@ I chose:
 | 4 | Move Left|
 | 5 | Move Right|
 
-and are mapped accordingly:
+and are mapped accordingly in `infra_car_control.py`:
 
 ![image](https://github.com/user-attachments/assets/9a03f0df-8a50-451f-af51-b6fd3ca48e7a)
 
