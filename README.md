@@ -122,7 +122,7 @@ Things went better. After placing the battery pack closer to the center of gravi
 
 
 ## Fourth Spin
-After correcting the left and right turns, the api was complete and minimally viable. The car can move forward, backward, turn left and turn right.
+Added the IR sensor and integrated that with the current simple car api. After correcting the left and right turns, the api was complete and minimally viable. The car can move forward, backward, turn left and turn right. This was overall a success and leaves plenty of opportunities to build upon.
 
 
 
