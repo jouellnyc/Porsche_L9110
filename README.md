@@ -158,7 +158,7 @@ After correcting the left and right turns functions (I had them inverted) and re
 
 ## Pain Points
 - Not everything went smoothly, my motor drivers went up in smoke - https://github.com/orgs/micropython/discussions/15938
-- Don't try to troubleshoot when you are too tired - I made mistakes but learned more about the L298N (despite it's size and voltage drop, it work pretty well) - https://forums.raspberrypi.com/viewtopic.php?t=377361
+- Don't try to troubleshoot when you are too tired - I made mistakes but learned more about the L298N (despite it's size and voltage drop, it works pretty well) - https://forums.raspberrypi.com/viewtopic.php?t=377361
 
 
 ## Credits
