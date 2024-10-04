@@ -157,7 +157,7 @@ Try to keep the IR sensor toward the edge, so it is more likely to receive the I
 After correcting the left and right turns functions (I had them inverted) and realizing the wheels and chassis are pretty good but the don't always proceed in a 'perfect' straight line, the api was complete and minimally viable. The car can move forward, backward, turn left and turn right. This was overall a success and leaves plenty of opportunities to build upon.
 
 ## Pain Points
-- Not everything went smoothly, my motor drivers went up in smoke - https://github.com/orgs/micropython/discussions/15938
+- Not everything went smoothly, the l9110 motor drivers went up in smoke - https://github.com/orgs/micropython/discussions/15938
 - Don't try to troubleshoot when you are too tired - I made mistakes but learned more about the L298N (despite it's size and voltage drop, it works pretty well) - https://forums.raspberrypi.com/viewtopic.php?t=377361
 
 
