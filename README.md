@@ -159,7 +159,7 @@ After correcting the left and right turns functions (I had them inverted) and re
 ## Pain Points
 - Not everything went smoothly, the l9110 motor drivers went up in smoke - https://github.com/orgs/micropython/discussions/15938
 - Don't try to troubleshoot when you are too tired - I made mistakes but learned more about the L298N (despite it's size and voltage drop, it works pretty well) - https://forums.raspberrypi.com/viewtopic.php?t=377361
-
+- I simplified the api by simply using one l9110.
 
 ## Credits
 - IR code used from https://github.com/peterhinch/micropython_ir/tree/master 
