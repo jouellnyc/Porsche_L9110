@@ -28,8 +28,12 @@ time.sleep(2)
 
 """
 """
+how=7.5
+car.turn_left(how)
+car.debug()
+time.sleep(2)
 
-car.turn_left(50)
+car.turn_left(how)
 car.debug()
 time.sleep(2)
 

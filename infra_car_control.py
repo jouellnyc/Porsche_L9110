@@ -12,7 +12,7 @@ DEBUG=True
 def debug():
     if DEBUG:
         car.debug()
-    
+        
 def infrared_check(data):
     if data in pri_scan_codes:
         print('OK', data)
@@ -23,16 +23,16 @@ def infrared_check(data):
             car.move_backwards()
             debug()
         elif data == 68:              #4
-            car.turn_left(50)
+            car.turn_left(7.5)
             debug()
         elif data == 64:              #5
-            car.turn_right(50)
+            car.turn_right(7.5)
             debug()
         elif data == 71:
-            car.turn_left(50)
+            car.turn_left(7.5)
             debug()
             time.sleep(5)
-            car.turn_right(50)
+            car.turn_right(7.5)
             debug()
         elif data == 28:               #OK 
             car.stop_car()
